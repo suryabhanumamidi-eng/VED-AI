@@ -1,0 +1,10 @@
+customtkinter
+groq
+cohere
+edge-tts
+pygame
+selenium
+pywhatkit
+python-dotenv
+requests
+SpeechRecognition
